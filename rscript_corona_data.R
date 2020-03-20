@@ -1,6 +1,5 @@
 
 library(tidyverse)
-library(rvest)
 library(lubridate)
 
 #init
