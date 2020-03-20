@@ -10,6 +10,7 @@ Power Bi report is using R scripting for data transformation and main visualisat
 
 - Power BI  Version: 2.76.5678.782 64-bit (décembre 2019)
 - R-3.6.3 for Windows
+  - install.packages ("tidyverse")
 
 ## Settings
 
