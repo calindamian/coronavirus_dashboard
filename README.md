@@ -2,8 +2,7 @@
 Power BI coronavirus dashboard based on data collected from https://www.worldometers.info/coronavirus/
 
 ## Main Dashboard Preview
-
-![image](https://user-images.githubusercontent.com/61669129/77163823-3b9a2400-6aaf-11ea-90cf-6220b9197769.png)
+![image](https://user-images.githubusercontent.com/61669129/77171515-d8af8980-6abc-11ea-96e0-c022e7b2769b.png)
 
 ## Requirements
 Power Bi report is using R scripting for data transformation and main visualisation so R runtime will be nedeed
