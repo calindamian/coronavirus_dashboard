@@ -2,7 +2,8 @@
 Power BI coronavirus dashboard based on data collected from https://www.worldometers.info/coronavirus/
 
 ## Main Dashboard Preview
-Monitors Coronavirus spread in Total Cases/Total Deaths as well as displaying differences between previous data points
+Monitors Coronavirus spread in Total Cases/Total Deaths as well as displaying differences between previous data points.
+
 Data is collected hourly from https://www.worldometers.info/coronavirus/ andd stored in **corona_data.csv**
 
 ![image](https://user-images.githubusercontent.com/61669129/77172988-23320580-6abf-11ea-8be2-be5aa0efe287.png)
