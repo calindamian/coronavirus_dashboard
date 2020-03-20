@@ -12,14 +12,13 @@ Power Bi report is using R scripting for data transformation and main visualisat
   - install.packages ("tidyverse")
 
 ## Settings
+- Open **rscript_corona_data.R** file in text editor and set **file_data** variable to point to **corona_data.csv** 
 
+- Open **pbi_coronavirus_dashboard** file and:
+    - Set Power Bi R directory 
+    ![image](https://user-images.githubusercontent.com/61669129/77165791-4b1b6c00-6ab3-11ea-88e3-a23bb9165abb.png)
 
-- Set Power Bi R directory 
+    - Set **RLib** parameter to the directory containing  **rscript_corona_data.R**
+    ![image](https://user-images.githubusercontent.com/61669129/77166031-c54bf080-6ab3-11ea-8cbb-be96d29a30e8.png)
 
-![image](https://user-images.githubusercontent.com/61669129/77165791-4b1b6c00-6ab3-11ea-88e3-a23bb9165abb.png)
-
-- Set **RLib** parameter to the directory containing  **rscript_corona_data.R**
-![image](https://user-images.githubusercontent.com/61669129/77166031-c54bf080-6ab3-11ea-8cbb-be96d29a30e8.png)
-
-- Set file_data variable inside **rscript_corona_data.R** to point to **corona_data.csv** 
 
