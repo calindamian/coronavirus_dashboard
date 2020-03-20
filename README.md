@@ -1,4 +1,4 @@
-# coronavirus_dashboard
+# Coronavirus Dashboard
 Power BI coronavirus dashboard based on data collected from https://www.worldometers.info/coronavirus/
 
 ## Main Dashboard
