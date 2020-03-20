@@ -13,5 +13,12 @@ Power Bi report is using R scripting for data transformation and main visualisat
 
 ## Settings
 
-Configure Power Bi R directory 
+
+Set Power Bi R directory 
 ![image](https://user-images.githubusercontent.com/61669129/77165791-4b1b6c00-6ab3-11ea-88e3-a23bb9165abb.png)
+
+Set **RLib** parameter to the directory containing  **rscript_corona_data.R**
+![image](https://user-images.githubusercontent.com/61669129/77166031-c54bf080-6ab3-11ea-8cbb-be96d29a30e8.png)
+
+Set file_data variable inside **rscript_corona_data.R** to point to **corona_data.csv** 
+
