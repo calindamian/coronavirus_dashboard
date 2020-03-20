@@ -13,3 +13,5 @@ Power Bi report is using R scripting for data transformation and main visualisat
 
 ## Settings
 
+Configure Power Bi R directory 
+![image](https://user-images.githubusercontent.com/61669129/77165791-4b1b6c00-6ab3-11ea-88e3-a23bb9165abb.png)
